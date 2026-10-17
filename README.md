@@ -1,4 +1,10 @@
-## Hi there 👋
+## Full-stack Dev Daniel
+
+### Ask me about:
+- Representing creative work and industries
+- Video games
+- Performant graphics
+- Database and API design
 
 <!--
 **DanielPini/DanielPini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
