@@ -1,22 +1,23 @@
-## Full-stack Dev Daniel
+# Daniel Pini
 
-### Ask me about:
-- Representing creative work and industries
-- Video games
-- Performant graphics
-- Database and API design
+I lead [Bag o' Birds](https://bag-o-birds.com), a software studio in Paris. We build
+platforms, data systems and the occasional video game for cultural organisations.
 
-<!--
-**DanielPini/DanielPini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do
+- Database administration and schema design: MySQL, Postgres, SQLite, Drizzle
+- Back ends built for speed: Hono, Node, edge runtimes
+- Front ends, including canvas and WebGPU
+- Founder of two software companies, launching 2027
+- Digital Producer of [Runway Journal](https://runway.org.au)
 
-Here are some ideas to get you started:
+Ask me about database and API design, performant graphics, and how to put creative
+work online so it lasts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected work.** [CoMA](https://coma.org), membership and shop for a UK music charity ·
+[The Parts We Give](https://github.com/DanielPini/TPWG), a video game inside a contemporary opera ·
+[Straddle](https://straddle-poker.com), a poker tournament app with payments ·
+[Runway Journal](https://runway.org.au)
+
+**Now.** Proposing a plugin API for KaTrain.
+
+[bag-o-birds.com](https://bag-o-birds.com) · [studio@bag-o-birds.com](mailto:studio@bag-o-birds.com)
