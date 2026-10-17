@@ -8,7 +8,7 @@ platforms, data systems and the occasional video game for cultural organisations
 - Back ends built for speed: Hono, Node, edge runtimes
 - Front ends, including canvas and WebGPU
 - Founder of two software companies, launching 2027
-- Digital Producer of [Runway Journal](https://runway.org.au)
+- Digital Producer at [Runway Journal](https://runway.org.au)
 
 Ask me about database and API design, performant graphics, and how to put creative
 work online so it lasts.
