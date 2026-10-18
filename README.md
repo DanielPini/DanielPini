@@ -14,10 +14,9 @@ Ask me about database and API design, performant graphics, and how to put creati
 work online so it lasts.
 
 **Selected work.** [CoMA](https://coma.org), membership and shop for a UK music charity ·
-[The Parts We Give](https://github.com/DanielPini/TPWG), a video game inside a contemporary opera ·
-[Straddle](https://straddle-poker.com), a poker tournament app with payments ·
-[Runway Journal](https://runway.org.au)
+[The Parts We Give](https://danielpini.github.io/TPWG/), a video game inside a contemporary opera ·
+[Straddle](https://straddle-poker.com), a poker tournament app with payments
 
-**Now.** Proposing a plugin API for KaTrain.
+**Now, October 2026.** Proposing a plugin API for KaTrain.
 
 [bag-o-birds.com](https://bag-o-birds.com) · [studio@bag-o-birds.com](mailto:studio@bag-o-birds.com)
