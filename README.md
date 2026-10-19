@@ -6,7 +6,7 @@ platforms, data systems and the occasional video game for cultural organisations
 ## What I do
 - Database administration and schema design: MySQL, Postgres, SQLite, Drizzle
 - Back ends built for speed: Hono, Node, edge runtimes
-- Front ends, including canvas and WebGPU
+- Front ends, including canvas. Currently learning WebGPU
 - Founder of two software companies, launching 2027
 - Digital Producer at [Runway Journal](https://runway.org.au)
 
