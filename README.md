@@ -17,10 +17,4 @@ work online so it lasts.
 [The Parts We Give](https://danielpini.github.io/TPWG/), a video game inside a contemporary opera ·
 [Straddle](https://straddle-poker.com), a poker tournament app with payments
 
-**Now, October 2026.** Proposing a plugin API for KaTrain.
-
 [bag-o-birds.com](https://bag-o-birds.com) · [studio@bag-o-birds.com](mailto:studio@bag-o-birds.com)
-
-![GitHub Stats](https://github-stats-xi-six.vercel.app/api/stats?user=danielpini)
-
-![Top Repositories](https://github-stats-xi-six.vercel.app/api/top-repos?user=danielpini)
